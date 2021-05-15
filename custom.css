@@ -1,0 +1,17 @@
+/* CSS Document */
+.main-form {
+	width:100%;
+	max-width: 500px;
+	padding: 25px;
+	margin:auto;
+	margin-top:50px;
+}
+.main-form h1 {
+	font-size: 24px;
+}
+.form-control {
+	margin-bottom: 7px;
+}
+.remover{
+	display: block;
+}
